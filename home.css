@@ -1,0 +1,178 @@
+.footer1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #204293;
+}
+.for-the-latest {
+    position: absolute;
+    top: 30%;
+    left: 2.43%;
+}
+.facebook-icon {
+    width: 50px;
+    position: relative;
+    height: 50px;
+}
+.social-media-icons {
+    position: absolute;
+    bottom: 28px;
+    left: 1223px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.ryanc-dhruvk {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 207px);
+    font-size: 20px;
+}
+.footer {
+    position: absolute;
+    top: 1507px;
+    left: 0px;
+    width: 1440px;
+    height: 200px;
+    color: #fff;
+    font-family: 'Source Serif Pro';
+}
+.about {
+    width: 50px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 5px;
+}
+.project-icon {
+    width: 50px;
+    position: relative;
+    height: 50px;
+    object-fit: cover;
+}
+.browsing-links {
+    position: absolute;
+    top: calc(50% - 108px);
+    left: calc(50% - 160px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 40px;
+}
+.mgm-logo-left-icon {
+    position: absolute;
+    top: 26px;
+    left: 20px;
+    width: 4px;
+    height: 4px;
+}
+.mgm-logo-right-icon {
+    position: absolute;
+    top: 25px;
+    left: 223px;
+    width: 4px;
+    height: 4px;
+    object-fit: contain;
+}
+.mgm-logo-icon {
+    position: absolute;
+    top: 7px;
+    left: 12px;
+    width: 223px;
+    height: 240px;
+    object-fit: cover;
+}
+.banner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 250px;
+}
+.websites-purpose1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 191.25px);
+    display: inline-block;
+    width: 381px;
+    height: 41.9px;
+}
+.websites-purpose-line{
+    position: absolute;
+    top: 41.46px;
+    left: calc(50% - 195.25px);
+    max-height: 100%;
+    width: 390.5px;
+    height: 2px;
+    border-top: 2px solid #f3641f;
+    box-sizing: border-box;
+}
+.websites-purpose {
+    position: absolute;
+    top: 1109px;
+    left: calc(50% - 214px);
+    width: 390.5px;
+    height: 41.9px;
+    font-size: 36px;
+}
+.mgm-logo-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 232px;
+    height: 250px;
+}
+.this-website-showcases {
+    position: absolute;
+    top: 1186px;
+    left: calc(50% - 542px);
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    display: inline-block;
+    width: 1069px;
+    height: 248px;
+}
+.science-comp-vid video{
+    position: absolute;
+    top: 367.5px;
+    left: calc(50% - 557.5px);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 1115px;
+    height: 624px;
+}
+.home-icon-line img{
+    position: absolute;
+    top: 71px;
+    left: 558px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-top: 2px solid #f3641f;
+    box-sizing: border-box;
+    width: 54px;
+    height: 2px;
+}
+.school-home-page {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1707px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 32px;
+    color: #000;
+    font-family: 'Helvetica Neue';
+}
+

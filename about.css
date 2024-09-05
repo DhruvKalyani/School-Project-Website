@@ -1,0 +1,355 @@
+.mahatma-gandhi-memorial {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 607px);
+}
+.mahatma-gandhi-memorial-high-s1 img{
+    position: absolute;
+    top: 70.23px;
+    left: calc(50% - 608px);
+    width: 1216px;
+    height: 1.8px;
+    object-fit: contain;
+    display: inline-block;
+    padding: 5px;
+  
+}
+.mahatma-gandhi-memorial-high-s {
+    position: absolute;
+    top: 338px;
+    left: calc(50% - 608px);
+    width: 1216px;
+    height: 78px;
+    font-size: 64px;
+    padding: 5px;
+}
+.mgm-high-school1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 179.5px);
+}
+.mgm-high-school-line img{
+    position: absolute;
+    top: 44px;
+    left: calc(50% - 180.5px);
+    width: 361px;
+    height: 0.7px;
+    object-fit: contain;
+    padding: 5px;
+}
+.mgm-high-school {
+    position: absolute;
+    top: 1125px;
+    left: calc(50% - 563px);
+    width: 361px;
+    height: 44.7px;
+    font-size: 36px;
+    padding: 5px;
+}
+.ministry-of-education1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 229.5px);
+}
+.ministry-of-education-line img {
+    position: absolute;
+    top: 45px;
+    left: calc(50% - 229.5px);
+    width: 459px;
+    height: 0.9px;
+    object-fit: contain;
+    padding: 5px;
+}
+.ministry-of-education {
+    position: absolute;
+    top: 1126px;
+    left: calc(50% + 122px);
+    width: 459px;
+    height: 45.9px;
+    font-size: 36px;
+    padding: 5px;
+}
+.banner1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #204293;
+}
+.home-icon {
+    width: 50px;
+    position: relative;
+    height: 50px;
+}
+.about {
+    width: 50px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 5px;
+}
+.project-icon {
+    width: 50px;
+    position: relative;
+    height: 50px;
+    object-fit: cover;
+}
+.browsing-links {
+    position: absolute;
+    top: calc(50% - 108px);
+    left: calc(50% - 160px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 40px;
+}
+.mgm-logo-left-icon {
+    position: absolute;
+    top: 26px;
+    left: 20px;
+    width: 4px;
+    height: 4px;
+}
+.mgm-logo-right-icon {
+    position: absolute;
+    top: 25px;
+    left: 223px;
+    width: 4px;
+    height: 4px;
+    object-fit: contain;
+}
+.mgm-logo-icon {
+    position: absolute;
+    top: 7px;
+    left: 12px;
+    width: 223px;
+    height: 240px;
+    object-fit: cover;
+}
+.banner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 250px;
+}
+.about-icon-line {
+    position: absolute;
+    top: 69px;
+    left: 648px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-top: 2px solid #f3641f;
+    box-sizing: border-box;
+    width: 54px;
+    height: 2px;
+}
+.mission-and-vision-line img{
+    position: absolute;
+    top: 59px;
+    left: calc(50% - 251.5px);
+    width: 503px;
+    height: 1px;
+    object-fit: contain;
+    padding: 5px;
+}
+.mission-and-vision1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 251.5px);
+}
+.mission-and-vision {
+    position: absolute;
+    top: 1037px;
+    left: calc(50% - 251px);
+    width: 503px;
+    height: 60px;
+    font-size: 48px;
+    padding: 5px;
+}
+.old-mgm-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 25px 0px 0px 25px;
+    width: 389px;
+    height: 500px;
+    object-fit: cover;
+}
+.middle-mgm-icon {
+    position: absolute;
+    top: 0px;
+    left: 389px;
+    width: 389px;
+    height: 500px;
+    object-fit: cover;
+}
+.new-mgm-icon {
+    position: absolute;
+    top: 0px;
+    left: 778px;
+    border-radius: 0px 25px 25px 0px;
+    width: 389px;
+    height: 500px;
+    object-fit: cover;
+}
+.progress-picture {
+    position: absolute;
+    top: 477px;
+    left: 124px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 1167px;
+    height: 500px;
+}
+.nurturing-the-whole {
+    position: absolute;
+    top: 9px;
+    left: calc(50% - 272.5px);
+    font-weight: 500;
+    display: inline-block;
+    width: 545px;
+    height: 94px;
+}
+.border-mgm-vision {
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    background-color: rgba(217, 217, 217, 0);
+    border: 2px solid #000;
+    box-sizing: border-box;
+    width: 549px;
+    height: 107px;
+}
+.mgm-vision {
+    position: absolute;
+    top: 1399px;
+    left: calc(50% - 655px);
+    width: 545px;
+    height: 103px;
+}
+.empowering-fijis-future {
+    position: absolute;
+    top: 1px;
+    left: 6px;
+    font-weight: 500;
+    display: inline-block;
+    width: 533px;
+    height: 155px;
+}
+.border-moe-vision {
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    background-color: rgba(217, 217, 217, 0);
+    border: 2px solid #000;
+    box-sizing: border-box;
+    width: 549px;
+    height: 160px;
+}
+.moe-vision {
+    position: absolute;
+    top: 1547px;
+    left: 798px;
+    width: 545px;
+    height: 156px;
+}
+.to-cultivate-holistic {
+    position: absolute;
+    top: 1px;
+    left: 6px;
+    font-weight: 500;
+    display: inline-block;
+    width: 539px;
+    height: 350px;
+}
+.border-moe-mission {
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    background-color: rgba(217, 217, 217, 0);
+    border: 2px solid #000;
+    box-sizing: border-box;
+    width: 549px;
+    height: 355px;
+}
+.moe-mission {
+    position: absolute;
+    top: 1196px;
+    left: 798px;
+    width: 545px;
+    height: 351px;
+}
+.to-achieve-academic {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 268.5px);
+    font-weight: 500;
+    display: inline-block;
+    width: 541px;
+    height: 194px;
+}
+.border-mgm-mission {
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    background-color: rgba(217, 217, 217, 0);
+    border: 2px solid #000;
+    box-sizing: border-box;
+    width: 549px;
+    height: 206px;
+}
+.mgm-mission {
+    position: absolute;
+    top: 1197px;
+    left: calc(50% - 655px);
+    width: 545px;
+    height: 202px;
+}
+.for-the-latest {
+    position: absolute;
+    top: 30%;
+    left: 2.43%;
+}
+.social-media-icons {
+    position: absolute;
+    bottom: 28px;
+    left: 1223px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.ryanc-dhruvk {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 207px);
+    font-size: 20px;
+}
+.footer {
+    position: absolute;
+    top: 1800px;
+    left: 0px;
+    width: 1440px;
+    height: 200px;
+    color: #fff;
+    font-family: 'Source Serif Pro';
+}
+.about-page {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 2000px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 32px;
+    color: #000;
+    font-family: 'Helvetica Neue';
+}
+

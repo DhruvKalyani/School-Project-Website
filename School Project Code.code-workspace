@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "School Project Images",
+			"path": "../School Project Images"
+		},
+		{
+			"name": "School Project Code",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "School Project Code"
+	}
+}

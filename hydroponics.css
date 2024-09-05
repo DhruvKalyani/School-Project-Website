@@ -1,0 +1,183 @@
+.banner1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #204293;
+}
+.home-icon {
+    width: 50px;
+    position: calc(top -2px);
+    height: 50px;
+}
+.about {
+    width: 50px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 25px;
+}
+.project-icon {
+    width: 50px;
+    position: relative;
+    height: 50px;
+    object-fit: cover;
+}
+.browsing-links {
+    position: absolute;
+    top: calc(50% - 108px);
+    left: calc(50% - 160px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 40px;
+}
+.mgm-logo-icon {
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    width: 223px;
+    height: 240px;
+}
+.banner {
+    position: absolute;
+    top: -1px;
+    left: 0px;
+    width: 1440px;
+    height: 250px;
+}
+.hydrponics-line-icon img{
+    position: absolute;
+    top: 69.62px;
+    left: calc(50% - 194.5px);
+    width: 389px;
+    height: 0.7px;
+    object-fit: contain;
+}
+.hydroponics1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 193.5px);
+}
+.hydroponics {
+    position: absolute;
+    top: 124px;
+    left: calc(50% - 194px);
+    width: 389px;
+    height: 78px;
+    text-align: center;
+    padding: 5px;
+}
+.project-3-growing {
+    font-family: 'Helvetica Neue';
+}
+.brassica-rapa-var {
+    font-weight: 700;
+    font-family: 'Helvetica Neue';
+}
+.project-3-growing-cabbage-br1 {
+    text-decoration: underline;
+}
+.project-3-growing-cabbage-br {
+    margin: 0;
+}
+.this-method-addresses {
+    font-weight: 500;
+    font-family: 'Helvetica Neue';
+}
+.food-supply-growing-cabbage-i {
+    margin-bottom: 0px;
+}
+.hydroponics-uses-less {
+    font-weight: 500;
+    font-family: 'Helvetica Neue';
+    white-space: pre-wrap;
+}
+.plastic-bottles-by-repurposin {
+    margin: 0;
+    font-size: inherit;
+    padding-left: 27px;
+}
+.project-3-growing-container {
+    position: absolute;
+    top: 738px;
+    left: calc(50% - 591px);
+    font-size: 20px;
+    color: #000;
+    display: inline-block;
+    width: 1181px;
+    height: 792px;
+}
+.for-the-latest {
+    position: absolute;
+    top: 30%;
+    left: 2.43%;
+}
+.social-media-icons {
+    position: absolute;
+    bottom: 28px;
+    left: 1223px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.ryanc-dhruvk {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 207px);
+    font-size: 20px;
+}
+.footer {
+    position: absolute;
+    top: 1699px;
+    left: 0px;
+    width: 1440px;
+    height: 200px;
+    font-size: 32px;
+    font-family: 'Source Serif Pro';
+}
+.button-recycled-plastic-rainco {
+    position: absolute;
+    top: 1623px;
+    left: 52px;
+    width: 462px;
+    height: 60.7px;
+    object-fit: cover;
+}
+.button-recycled-paper-next-1 {
+    position: absolute;
+    top: 1623px;
+    left: 1092px;
+    width: 295px;
+    height: 60.6px;
+    object-fit: cover;
+}
+.hydroponics-photos-1 {
+    position: absolute;
+    top: 325px;
+    left: calc(50% - 668px);
+    width: 1335px;
+    height: 338.3px;
+    object-fit: cover;
+}
+.hydroponics-page {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1899px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 64px;
+    color: #fff;
+    font-family: 'Helvetica Neue';
+}
+

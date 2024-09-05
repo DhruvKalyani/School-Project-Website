@@ -1,0 +1,181 @@
+.banner1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #204293;
+}
+.home-icon {
+    width: 50px;
+    position: relative;
+    height: 50px;
+}
+.about {
+    width: 50px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.project-icon {
+    width: 50px;
+    position: relative;
+    height: 50px;
+    object-fit: cover;
+}
+.browsing-links {
+    position: absolute;
+    top: calc(50% - 108px);
+    left: calc(50% - 160px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 40px;
+}
+.mgm-logo-icon {
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    width: 223px;
+    height: 240px;
+}
+.banner {
+    position: absolute;
+    top: -1px;
+    left: 0px;
+    width: 1440px;
+    height: 250px;
+}
+.for-the-latest {
+    position: absolute;
+    top: 30%;
+    left: 2.43%;
+}
+.social-media-icons {
+    position: absolute;
+    bottom: 28px;
+    left: 1223px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.ryanc-dhruvk {
+    position: absolute;
+    bottom: 0px;
+    left: calc(50% - 207px);
+    font-size: 20px;
+}
+.footer {
+    position: absolute;
+    top: 1699px;
+    left: 0px;
+    width: 1440px;
+    height: 200px;
+    font-family: 'Source Serif Pro';
+}
+.recycable-paper-line  img{
+    position: absolute;
+    top: 68.83px;
+    left: calc(50% - 398px);
+    width: 799px;
+    height: 1.5px;
+    object-fit: contain;
+}
+.recycable-paper {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 398px);
+}
+.reused-plastic-raincoat {
+    position: absolute;
+    top: 124px;
+    left: calc(50% - 398px);
+    width: 811px;
+    height: 78px;
+    text-align: center;
+    font-size: 64px;
+    padding: 5px;
+}
+.project-1-making {
+    text-decoration: underline;
+}
+.project-1-making-a-raincoat-f {
+    margin: 0;
+    white-space: pre-wrap;
+}
+.blank-line {
+    margin: 0;
+}
+.this-project-tackles {
+    font-weight: 500;
+    font-family: 'Helvetica Neue';
+}
+.plastic-pollution {
+    font-family: 'Helvetica Neue';
+}
+.by-recycling-plastic {
+    font-weight: 500;
+    font-family: 'Helvetica Neue';
+    white-space: pre-wrap;
+}
+.plastic-pollution-by-recyclin {
+    margin: 0;
+    font-size: inherit;
+    padding-left: 27px;
+}
+.t-technology-technology-pla {
+    margin-bottom: 0px;
+}
+.project-1-making-container {
+    position: absolute;
+    top: 786px;
+    left: calc(50% - 592px);
+    font-size: 20px;
+    color: #000;
+    display: inline-block;
+    width: 1184px;
+}
+.button-recycled-paper-back-1 {
+    position: absolute;
+    top: 1621px;
+    left: 52px;
+    width: 295px;
+    height: 60.6px;
+    object-fit: cover;
+}
+.button-hydroponics-next-1 {
+    position: absolute;
+    top: 1621px;
+    left: 1138px;
+    width: 250px;
+    height: 60.5px;
+    object-fit: cover;
+}
+.raincoat-photos-1 {
+    position: absolute;
+    top: 338px;
+    left: calc(50% - 668px);
+    width: 1336px;
+    height: 381.6px;
+    object-fit: cover;
+}
+.reused-plastic-raincoat-page {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1899px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 32px;
+    color: #fff;
+    font-family: 'Helvetica Neue';
+}
+
